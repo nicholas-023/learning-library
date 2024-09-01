@@ -1,6 +1,6 @@
 <?php 
 
-namespace Nicholas;
+namespace Nichola023s;
 
 class Basic {
   public function __construct(string $name) {
