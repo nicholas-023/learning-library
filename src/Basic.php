@@ -1,5 +1,7 @@
 <?php 
 
+namespace Nicholas\Basic;
+
 class Basic {
   public function __construct(string $name) {
     $this->name = $name;
