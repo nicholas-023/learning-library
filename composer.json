@@ -1,0 +1,17 @@
+{
+    "name": "nicholas/learning-library",
+    "description": "Learning how to make a library composer.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nicholas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nicholas-023",
+            "email": "nicholastothework@gmail.com"
+        }
+    ],
+    "require": {}
+}
