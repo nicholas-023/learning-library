@@ -1,6 +1,5 @@
 {
-    "name": "nicholas/learning-library",
-    "description": "Learning how to make a library composer.",
+    "name": "nicholas/learning",
     "type": "library",
     "autoload": {
         "psr-4": {
